@@ -59,13 +59,13 @@ const languageString = {
     'en-US': {
         'translation': {
             'QUESTIONS': questions['QUESTIONS_EN_US'],
-            'GAME_NAME': 'American M. M. A. Trivia', // Be sure to change this for your skill.
+            'GAME_NAME': 'MMA Trivia', // Be sure to change this for your skill.
         },
     },
     'en-GB': {
         'translation': {
             'QUESTIONS': questions['QUESTIONS_EN_GB'],
-            'GAME_NAME': 'British M. M. A. Trivia', // Be sure to change this for your skill.
+            'GAME_NAME': 'MMA Trivia', // Be sure to change this for your skill.
         },
     },
 };
